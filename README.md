@@ -1,4 +1,4 @@
-# beside_clone_coding
+# 비사이드 App 클론 코딩
 ![Screen Shot 2022-11-02 at 9 19 55 AM](https://user-images.githubusercontent.com/48500149/199365838-75aada77-7bf5-4a6e-8517-ee7f5aa7b29a.png)
 
 ## ⏳ 프로젝트 기간
