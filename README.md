@@ -2,7 +2,7 @@
 ![Screen Shot 2022-11-02 at 9 19 55 AM](https://user-images.githubusercontent.com/48500149/199365838-75aada77-7bf5-4a6e-8517-ee7f5aa7b29a.png)
 
 ## ⏳ 프로젝트 기간
-### 2022년 10월 31일 - 2022년 11월 2일
+### 2022년 10월 31일 - 2022년 11월 4일
 
 ## ⏰ 프로젝트 Planning
 - 10월 31일 ~ 11월 1일 => flutter development kit 학습
